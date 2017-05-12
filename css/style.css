@@ -1,0 +1,327 @@
+header{
+	background-image: url('../img/large-banner-image.png');
+	height: 600px
+
+}
+
+body{
+	width: 100%;
+}
+
+#first{
+	font-family: 'Pacifico', cursive;
+	text-align: center;
+	position: relative;
+	top: 110px;
+	font-size: 65px;
+	font-weight: 200;
+}
+
+#second{
+	text-align: center;
+	position: relative;
+	top: 90px;
+	right: 50px;
+	font-size: 35px;
+	font-family: 'Raleway', sans-serif;
+	font-weight: 200;
+	/*font-style: 300;*/
+	min-height: 150px;
+}
+
+#third{
+	text-align: center;
+	position: relative;
+	top: 45px;
+	right: 127px;
+}
+
+#da{
+	position: relative;
+	right: -644px;
+	top: 23px;
+	z-index: 1;
+}
+
+#dcursor{
+	position: relative;
+	top: -120px;
+	right: 10px;
+}
+
+#bdone{
+	position: relative;
+	top: 510px;
+	left: 727px;
+	z-index: 1;
+}
+
+#wdone{
+	position: relative;
+	top: 280px;
+	left: 715px;
+	z-index: 1;
+}
+#wdtwo{
+	position: relative;
+	top: 340px;
+	left: 585px;
+	z-index: 1;
+}
+
+#wdthree{
+	position: relative;
+	top: 490px;
+	left: 585px;
+	z-index: 1;
+}
+
+#aline{
+	position: relative;
+	top: 410px;
+	left: 750px;
+	z-index: 1;
+}
+
+#iphone{
+	text-align: center;
+	position: relative;
+	top: -220px;
+	right: 45px;
+}
+
+
+#gf_left{
+	font-family: 'Raleway', sans-serif;
+	font-weight: 300;
+	float: left;
+	width: 300px;
+	position: relative;
+	top: -706px;
+	left: 153px;
+	line-height: 45px;
+}
+
+.gf_leftt{
+	font-weight: 200;
+	line-height: 25px
+}
+
+#gf_right{
+	font-family: 'Raleway', sans-serif;
+	font-weight: 300;
+	float: right;
+	width: 300px;
+	position: relative;
+	top: -690px;
+	left: -192px;
+	line-height: 45px;
+}
+
+.gf_rightt{
+	font-weight: 200;
+	line-height: 25px
+}
+
+#agf_left{
+	font-family: 'Raleway', sans-serif;
+	font-weight: 300;
+	float: left;
+	width: 300px;
+	position: relative;
+	top: -520px;
+	left: -153px;
+	line-height: 45px;
+}
+
+.agf_leftt{
+	font-weight: 200;
+	line-height: 25px
+}
+
+#agf_right{
+	font-family: 'Raleway', sans-serif;
+	font-weight: 300;
+	float: right;
+	width: 300px;
+	position: relative;
+	top: -520px;
+	left: 108px;
+	line-height: 45px;
+}
+
+.agf_rightt{
+	font-weight: 200;
+	line-height: 25px
+}
+
+#grey{
+	background: lightgray;
+	background-image: url(/img/video-image.png);
+	height: 428px;
+	position: relative;
+	top: -240px;
+}
+
+#today{
+	float: left;
+	width: 500px;
+	position: relative;
+	top: -17px;
+	left: 90px;
+}
+
+#VI{
+	float:right;
+	display:inline-block;
+	position:absolute;
+	right: 120px;
+	top: 80px;
+}
+
+#video{
+	float: right;
+	width: 500px;
+	position: relative;
+	top: 195px;
+	left: -100px;
+}
+
+#os{
+	float: left;
+	position: relative;
+	top: 152px;
+	left: -410px;
+}
+
+#cursor{
+	position: relative;
+	left: -335px;
+	top: 317px;
+}
+
+#quote{
+	font-family: 'Raleway', sans-serif;
+	font-weight: 700;
+	margin: 100px;
+	text-align: center;
+	position: relative;
+	top: -265px;
+	height: 77px;
+	line-height: 50px;
+	/*width: 350px;*/
+}
+
+.quote{
+	font-family: 'Raleway', sans-serif;
+	font-size: 140%;
+	font-weight: 400;
+	position: relative;
+	top: -35px;
+}
+
+#kyle{
+	position: relative;
+	top: -41px;
+}
+
+#blogger{
+	font-family: 'Raleway', sans-serif;
+	font-weight: 400;
+	position: relative;
+	top: -90px;
+	left: 80px;
+}
+
+#people{
+	background-image: url('../img/people.png');
+	height: 320px;
+	position: relative;
+	top: -340px;
+}
+
+#activeguy{
+	position: relative;
+	top: 80px;
+	left: 913px;
+}
+
+#guycursor{
+	position: relative;
+	top: -35px;
+	left: 10px;
+}
+
+#git{
+	text-align: center;
+	position: relative;
+	top: -80px;
+	line-height: 10px;
+}
+
+.hi{
+	font-family: 'Raleway', sans-serif;
+	font-weight: 600;
+	position: relative;
+	top: -140px;
+	font-size: 170%;
+}
+
+.gitt{
+	font-family: 'Raleway', sans-serif;
+	font-weight: 300;
+	position: relative;
+	top: -65px;
+}
+
+.socialmedia{
+	position: relative;
+	top: -40px;
+	line-height: 10px;
+}
+
+.OScursor{
+	position: relative;
+	right: 140px;
+	top: 8px;
+}
+
+.GF{
+	font-size: 140%;
+	font-weight: 600;
+}
+
+.getapp{
+	font-family: 'Raleway', sans-serif;
+	font-weight: 500;
+	position: relative;top: -10px;
+	font-size: 140%;
+	font-weight: 600;
+	line-height: 50px;
+
+}
+
+.gap{
+	font-family: 'Raleway', sans-serif;
+	font-weight: 200;
+	position: relative;
+	line-height: 25px;
+
+}
+
+#footer{
+	font-family: 'Raleway', sans-serif;
+	font-weight: 100;
+	text-align: center;
+	position: relative;
+	word-spacing: 30px;
+	background-color: lightgray;
+	height: 105px;
+}
+
+.footer{
+	position: relative;
+	top:46px;
+}
+
+
